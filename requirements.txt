@@ -1,0 +1,6 @@
+pandas
+numpy 
+scikit-learn
+bs4
+selenium 
+requests
