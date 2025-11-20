@@ -6,3 +6,4 @@ selenium
 requests
 matplotlib
 seaborn
+xgboost
