@@ -1,0 +1,777 @@
+name,price,mileage,engine_cc,fuel,kilometer_run,types,is_automatic,is_4WD,age
+Nissan Sunny 1.6 fully fresh 9803656430,880000.0,15.0,1600.0,1,81396.0,3.0,0,0,18.0
+Hyundai i10 2009model with option,1055000.0,16.0,1100.0,1,71820.0,2.0,0,0,16.0
+Santro   Hyundai 2013 model  super fresh 2user car,1515000.0,15.0,1100.0,1,77000.0,2.0,1,0,11.0
+Santro   Hyundai 2013 model super fresh 2user ,1515000.0,15.0,1100.0,1,77000.0,2.0,1,0,12.0
+i10 magna 1200cc,1175000.0,14.0,1200.0,1,62000.0,2.0,0,0,16.0
+Santro  Hyundai 2013 model super fresh 2user ,1515000.0,15.0,1100.0,1,77000.0,2.0,0,0,12.0
+excellent condition 2008 model swift vxi on sale!,1250000.0,15.0,1200.0,1,77000.0,2.0,0,0,17.0
+like a new 2015 model i20Active s on sale !,2450000.0,15.0,1200.0,1,42000.0,2.0,0,0,10.0
+Santro  Hyundai 2013 model fresh 2user on sale ,1515000.0,15.0,1100.0,1,77000.0,2.0,0,0,12.0
+excellent condition 2016 model i20Active s on sale,2650000.0,15.0,1200.0,1,47000.0,2.0,0,0,9.0
+Suzuki swift ,935000.0,14.0,1298.0,1,74500.0,2.0,0,0,20.0
+Maruti Suzuki Ciaz 1.5 Smart Hybrid 2019,2575000.0,18.0,1500.0,4,36000.0,3.0,0,0,6.0
+Hyundai i10 2009 model on sale (9849027795),1065000.0,15.0,1086.0,1,88000.0,2.0,0,0,16.0
+✨ Hyundai Accent For Sale – Immaculate Condition! ,850000.0,18.0,1399.0,1,47000.0,3.0,0,0,18.0
+i20 asta,1275000.0,14.0,1200.0,1,58000.0,2.0,0,0,16.0
+Omni maruti cargo van sell,380000.0,15.0,800.0,1,100000.0,5.0,0,0,11.0
+Brezza Zdi+,2695000.0,14.0,1200.0,2,54000.0,1.0,0,0,8.0
+Gypsy,1750000.0,14.0,1298.0,1,9400.0,1.0,0,1,26.0
+Santro Sports 2019 Hyundai,2100000.0,15.0,1100.0,1,41000.0,2.0,0,0,6.0
+Ford Figo Titanium petrol 2012 model,9800000.0,13.0,1200.0,1,70.0,2.0,0,0,13.0
+Hilux 2009,2700000.0,12.0,2494.0,2,90000.0,4.0,1,1,16.0
+Single Hand Ford EcoSport Trend 2018,2350000.0,11.0,1500.0,1,43800.0,1.0,0,0,7.0
+Seltos Htx 2020 Dsl,4500000.0,16.0,1500.0,2,37.0,1.0,0,0,5.0
+Seltos Htx 2020 Dsl,4500000.0,16.0,1500.0,2,37.0,1.0,0,0,5.0
+City Sprite Jiyung Ev,900000.0,18.0,120.0,3,15000.0,2.0,1,0,5.0
+Maruti Suzuki A Star 2012,1350000.0,15.0,998.0,1,45.0,2.0,0,0,13.0
+Hyundai santro 2007 sell and exchange,950000.0,14.0,1100.0,1,79000.0,2.0,0,0,18.0
+Nissan super salon auto 2007 sell and exchange,2550000.0,14.0,1200.0,1,66000.0,3.0,0,0,18.0
+Volkswagen polo 1.6 2018 sell and exchange,1800000.0,14.0,1600.0,1,42000.0,2.0,0,0,7.0
+deepal E07 ev sunroof single hand 2025 sell/exchan,8500000.0,18.0,190.0,3,7000.0,1.0,1,0,0.0
+Ford Figo tren 2017 sell and exchange,1400000.0,14.0,1200.0,1,32000.0,2.0,0,0,8.0
+Hilux 2021 ..,87.0,12.0,2800.0,2,14364.0,4.0,0,1,4.0
+Hyundai eon era+  2012 sell and exchange,900000.0,14.0,800.0,1,79000.0,2.0,0,0,13.0
+Creta SX diesel 2016,3050000.0,17.0,1200.0,2,60000.0,1.0,0,0,9.0
+Well condition ford figo titanium 2017 on sale ,1750000.0,15.0,1200.0,1,56000.0,2.0,0,0,8.0
+Single user ford freestyle Trand 2019 on sale ,2050000.0,15.0,1200.0,1,44000.0,2.0,0,0,6.0
+sale,1335000.0,13.0,1200.0,1,58653.0,2.0,0,0,15.0
+Brezza Vdi+ 2018 Fresh Condition,2750000.0,18.0,1248.0,2,49000.0,1.0,0,0,7.0
+eeco van services for rent 5000 perday,5000.0,15.0,1200.0,1,23940.0,5.0,0,0,6.0
+SHOWROOM CONDITION HYUNDAI CRETA SX FACELIFT 2018 ,4075000.0,15.0,1600.0,1,58000.0,1.0,0,0,7.0
+Hyundai Verna 2015 Single Handed,2150000.0,14.0,1500.0,1,63000.0,3.0,0,0,10.0
+2016 Skoda Rapid On Sale,1350000.0,18.0,1500.0,2,75000.0,3.0,0,0,9.0
+Grand i10 Magna,1700000.0,16.0,1197.0,1,65000.0,2.0,0,0,12.0
+Sonet GT Line 2020,4075000.0,17.0,1400.0,2,63000.0,1.0,0,0,5.0
+BORGWARD BX5 2020,6000000.0,10.0,2000.0,1,19152.0,1.0,1,1,5.0
+Skoda fabia 1.6  2013 model good Rs 950000.,950000.0,12.0,1598.0,1,40000.0,1.0,1,1,12.0
+Maruti 800,315000.0,15.0,800.0,1,117000.0,2.0,0,0,28.0
+ECO VAN 7SEATER ,1724000.0,15.0,1200.0,1,52000.0,5.0,0,0,7.0
+Breeza,2500000.0,18.0,1462.0,2,53000.0,1.0,0,0,9.0
+Daihatsu Sirion 2005,590000.0,15.0,998.0,1,90972.0,2.0,0,0,20.0
+Hyundai I20 Active S 2016,2550000.0,15.0,1197.0,1,53245.0,1.0,0,0,9.0
+Hyundai I10 Magna 2010,1425000.0,15.0,1197.0,1,67032.0,2.0,0,0,15.0
+Eco seater van urgent sell ✅✅,1450000.0,15.0,1200.0,1,180000.0,5.0,0,0,7.0
+CELERIO X ZXI 2018 📞📞9823379636,2050000.0,15.0,1000.0,1,54000.0,2.0,0,0,7.0
+Well condition Chevrolet Beat 2010 on sale ,900000.0,15.0,1200.0,1,45000.0,2.0,0,0,15.0
+Magnite 2021 model superfresh 5 wota Tyre new 3079,270000.0,15.0,1000.0,1,3079.0,1.0,0,0,4.0
+Well condition Hyundai I 10 sports 2008 on sale ,1275000.0,15.0,1200.0,1,53000.0,2.0,0,0,17.0
+Hyundai verna 2013 model,1700000.0,14.0,1500.0,1,86300.0,3.0,0,0,12.0
+Kia seltos ivt auto sunroof petrol 2021 model,5200000.0,14.0,1500.0,1,53600.0,1.0,1,0,4.0
+Hyundai Santro 2003 Full Option On Sale,625000.0,15.0,1000.0,1,85000.0,2.0,0,0,22.0
+Maruti Suzuki Swift Vxi 2009 On Sale,1350000.0,15.0,1200.0,1,65000.0,2.0,0,0,16.0
+Ford KUGA SUV 2600cc Fully Fresh Model-2012,2800000.0,14.0,6000.0,1,95000.0,1.0,0,1,13.0
+Ford Figo Aspire Titanium 2021 Single Hand,1990000.0,15.0,1194.0,1,39000.0,3.0,0,0,4.0
+Ecosports titanium 2018,2500000.0,14.0,1500.0,1,52000.0,1.0,0,0,7.0
+Skoda Rapid Elegance 1.6 Single Hand Top Varient,1475000.0,14.0,1600.0,1,47880.0,3.0,0,0,11.0
+Brezza 2021 ZXI PLUS(Top Model),3799999.0,18.0,1499.0,1,37000.0,1.0,0,0,4.0
+2008 model tuction ,1600000.0,10.0,2000.0,2,90.0,1.0,0,1,17.0
+Grand i10 sportz 2019,2400000.0,16.0,1200.0,1,41000.0,2.0,1,0,6.0
+wagon r 2017 model,1675000.0,18.0,1000.0,1,51000.0,2.0,0,0,8.0
+🔥 FOR SALE – TOYOTA HILUX REVO 2016 (4WD) On SALE,5900000.0,12.0,2755.0,1,92000.0,4.0,0,1,9.0
+Fiat Linea 2011,850000.0,12.0,1400.0,1,70.0,3.0,0,0,14.0
+Maruti Suzuki Wagon R Vxi 2009 40000 Km On Sale,1050000.0,15.0,1000.0,1,40000.0,2.0,0,0,16.0
+Alto Lxi 2018 Model On Sale 9851043436,1450000.0,15.0,800.0,1,51000.0,2.0,0,0,7.0
+2010 i20 ASTA HYUNDAI 82500 KM,1350000.0,15.0,1200.0,1,82500.0,2.0,0,0,15.0
+Tata Ngr Car On Sale,2600000.0,16.0,1158.0,1,8000.0,2.0,0,0,4.0
+Fresh i20 active 2015 1400cc Diesel 6 gear on sale,2250000.0,16.0,1400.0,2,48.0,2.0,0,0,10.0
+Terios Sx 4WD 2014 On Sale 9851043436,3450000.0,14.0,1496.0,1,71757.0,1.0,0,1,11.0
+Hyundai Creta 1.6 Gasoline E 2018 Model,3400000.0,14.0,1600.0,1,28728.0,1.0,0,0,7.0
+Suzuki Scross 2016 Model Required चाहियो ,1600000.0,18.0,1248.0,2,38304.0,1.0,1,0,9.0
+Hyundai Creta on Sale,2700000.0,14.0,1500.0,1,64576.0,1.0,0,1,9.0
+Toyota Yaris sedan 2008 sell and exchange,1175000.0,14.0,1300.0,1,57000.0,3.0,0,0,17.0
+Honda City 1.5 VMT,1850000.0,16.0,1596.0,1,51000.0,3.0,0,0,11.0
+sujuki ignish 2017 single hand  sell & exchange,1899000.0,15.0,1200.0,1,55000.0,2.0,0,0,8.0
+Kia picanto 2010 sell and exchange,900000.0,14.0,1100.0,1,62000.0,2.0,0,0,15.0
+hyundai santro 2007 full option sell & exchange,950000.0,14.0,1100.0,1,79000.0,2.0,0,0,18.0
+Kia soul ev sunroof 2018 single hand sell nd excha,1850000.0,18.0,81.0,3,60000.0,1.0,0,0,7.0
+tata nano 2012 sell and exchange,350000.0,16.0,600.0,1,79000.0,2.0,0,0,13.0
+Deepal E07 ev 2025 low run 7000 km sell & exchange,8500000.0,18.0,190.0,3,7000.0,1.0,1,0,0.0
+Hyundai i20 activeS 2016 sell and exchange,2550000.0,14.0,1200.0,1,66000.0,1.0,0,0,9.0
+Maruti Suzuki Swift Dzire zxi fully loaded car,1675000.0,14.0,1300.0,1,70000.0,3.0,0,0,12.0
+Brand New Conditioned Brezza Top Variant for Sale,4800000.0,18.0,1462.0,1,23000.0,1.0,0,0,2.0
+Nissan Sunny Super Saloon 2004 Auto Gear,825000.0,12.0,1600.0,1,94000.0,3.0,1,0,22.0
+⭐ Brezza Petrol – Like New | Well Maintained |,3600000.0,18.0,1500.0,1,70000.0,1.0,0,0,4.0
+HYUNDAI EON ERA PLUS CAR ON SALE,1238000.0,15.0,814.0,1,52000.0,2.0,0,0,10.0
+Only 37k km चलेको  Full option Single hand CretaSX,3600000.0,14.0,1591.0,1,37857.0,1.0,0,0,9.0
+Hyundai Creta Sx Plus 2016 Model Red Colour,3200000.0,14.0,1600.0,1,58075.0,1.0,0,0,9.0
+Hyundai I10 Magna 1.2 blue  2008,1100000.0,15.0,1200.0,1,92700.0,1.0,1,0,17.0
+Volkswagen Passat Automatic 2013 Petrol On Sale ,3600000.0,10.0,1800.0,1,65000.0,3.0,1,0,12.0
+Fresh Santro   2013 model on sale ,1515000.0,15.0,1100.0,1,77000.0,2.0,0,0,12.0
+Hyundai Grand i10 Magna 2018 Full Option,2230000.0,18.0,1197.0,1,40000.0,2.0,0,0,7.0
+NEXON PETROL- SALE / EXCHANGE ,2500000.0,15.0,1200.0,1,28728.0,1.0,1,0,7.0
+Ford Ecosport Trend 2018 “Single Hand”,2350000.0,14.0,1497.0,1,42356.0,1.0,0,0,7.0
+Like New Polo 1.0 Trendline on Sale,2000000.0,15.0,999.0,1,52000.0,2.0,1,0,7.0
+Ford fiesta on sale...,1200000.0,16.0,1499.0,1,76142.0,3.0,0,0,14.0
+Maruti Suzuki Esteem VXI  🔥 The King Is Back,509000.0,16.0,1300.0,1,41000.0,3.0,0,1,20.0
+Hyundai i10 for sale 9816257083 ,2650000.0,15.0,1197.0,1,4000.0,1.0,1,0,4.0
+2020 Peugeot 3008/suv/automatic/petrol/finance/car,5900000.0,14.0,1500.0,1,32000.0,1.0,1,1,5.0
+Kia picanto 2008,750000.0,18.0,1000.0,1,180000.0,2.0,0,0,17.0
+Car on sell,1475000.0,14.0,1200.0,1,69000.0,2.0,1,0,15.0
+Fiat Car,950000.0,16.0,1400.0,1,20500.0,2.0,0,0,11.0
+Venue Sx 2019 Hyundai,3500000.0,18.0,1000.0,1,51.0,1.0,0,0,6.0
+Renault Kwid RXT O AMT 2021 Single Hand,1790000.0,15.0,999.0,1,32500.0,2.0,1,0,4.0
+Hyundai i10 2009 urgent sale fix price no bargan ,935000.0,13.0,1100.0,1,70.0,2.0,0,0,16.0
+Proton X50,5100000.0,15.0,1500.0,1,25000.0,1.0,1,0,3.0
+Hyundai Getz getch full option fully loaded,625000.0,15.0,1350.0,1,95760.0,2.0,0,0,21.0
+Maruti Suzuki Alto K10 2015 For Sale,1400000.0,16.0,1000.0,1,48000.0,2.0,0,0,10.0
+Ford tdci classic 2013 for sell,960000.0,18.0,1200.0,2,72000.0,3.0,1,0,12.0
+Maruti Suzuki Eeco cargo van ,1575000.0,15.0,1200.0,1,357.0,5.0,0,0,3.0
+Kia seltos 2022 htk sell/ exchange ,3990000.0,12.0,1500.0,1,43000.0,1.0,0,0,3.0
+Hyundai tucson 4wd,1275000.0,10.0,2000.0,2,130000.0,1.0,0,1,17.0
+Alto car 2014,1125.0,18.0,800.0,1,54.0,2.0,1,0,11.0
+9841691209,1399.0,12.0,2956.0,2,52000.0,4.0,0,0,4.0
+9841691209,1399.0,12.0,2956.0,2,29000.0,4.0,0,0,4.0
+Skoda Rai Single Hand,1885000.0,18.0,1500.0,2,46000.0,3.0,0,0,6.0
+Hyundai I20 Active ,2500000.0,15.0,1200.0,1,53.0,1.0,0,0,9.0
+Tata Telcoline Double cab,1075.0,13.0,2000.0,2,47000.0,4.0,0,1,10.0
+tata ht,350000.0,18.0,602.0,2,170000.0,4.0,1,0,15.0
+Swift 2016 ZXI -9841173400,2000000.0,17.0,1200.0,1,63000.0,2.0,0,0,9.0
+Maruti Suzuki Breeza on sale,3150000.0,18.0,1248.0,2,50031.0,1.0,0,0,7.0
+Volkswagan Polo 1.2 comfortline 2012,1450000.0,12.0,1198.0,1,61000.0,2.0,0,0,13.0
+Pajero Mitsubishi,1750000.0,12.0,2500.0,2,117000.0,1.0,0,1,32.0
+Single user grandi10 Asta 2014 model on sale!,2050000.0,15.0,1200.0,1,51000.0,2.0,0,0,11.0
+excellent condition 2005 model sunny salon on sale,800000.0,14.0,1600.0,1,65000.0,3.0,0,0,20.0
+Automatic FordEcosport titanium 2015 model on sale,2450000.0,14.0,1500.0,1,45000.0,1.0,1,0,10.0
+Single user fordecosport 2016 model on sale!,1975000.0,14.0,1500.0,1,69000.0,1.0,0,0,9.0
+like a new fordfigo Zxi 2011 model on sale!,1050000.0,15.0,1200.0,1,53000.0,2.0,0,0,14.0
+Single user ford freestyle Trand 2020 on sale ,2150000.0,15.0,1200.0,1,30000.0,2.0,0,0,5.0
+Excellent condition ford figo Zxi 2013 on sale ,1100000.0,15.0,1200.0,1,49000.0,2.0,0,0,12.0
+Creta sx top varrient 2015 on sale,3175000.0,14.0,1591.0,1,55000.0,1.0,0,0,10.0
+Ford EcoSport Titanium automatic 2015 on sale ,2450000.0,14.0,1500.0,1,45000.0,1.0,0,0,10.0
+Single user Nissan sunny 2005 on sale ,800000.0,14.0,1600.0,1,90972.0,3.0,0,0,20.0
+Excellent condition Renualt kwid RXT 2018 on sale ,1450000.0,15.0,1000.0,1,46000.0,2.0,0,0,7.0
+Creta S 2016,3000000.0,14.0,1600.0,1,38304.0,1.0,0,0,9.0
+Land cruiser 1 and z 1994,1950000.0,10.0,4200.0,2,180000.0,1.0,0,1,31.0
+Chevrolet Aveo LS 1.4,850000.0,12.0,1400.0,1,58000.0,3.0,0,0,14.0
+V cross 2017 for sell,3350000.0,13.0,2499.0,2,33516.0,4.0,0,1,8.0
+brezza zdi+ 2018,2850000.0,18.0,1248.0,2,51236.0,1.0,0,0,7.0
+Hyundai santro 2007 sell and,950000.0,14.0,1100.0,1,79000.0,2.0,0,0,17.0
+Nissan super salon auto 2007 sell and exchange,1050000.0,11.0,1500.0,1,65000.0,3.0,1,0,18.0
+Hyundai i20 asta 2009 sell and exchange,1300000.0,14.0,1200.0,1,62000.0,2.0,0,0,16.0
+Kia picanto 2010 sell and exchange,900000.0,14.0,1100.0,1,62000.0,2.0,0,0,15.0
+Renault capture petrol push button 2018 sell/excha,2200000.0,14.0,1500.0,1,65000.0,1.0,0,0,7.0
+Toyota Yaris sedan sell and exchange 2008,1175000.0,14.0,1200.0,1,57000.0,3.0,0,0,17.0
+Kia soul ev 2018 sell and exchange,1850000.0,18.0,81.0,3,60000.0,2.0,1,0,7.0
+Nissan Kicks XV 14 Lakhs Cash 15 Finance,2900000.0,18.0,1500.0,2,23940.0,1.0,0,0,6.0
+SINGLE HANDED FULLY LOADED MITSUBISHI OUTLENDER SA,4600000.0,13.0,2300.0,1,86000.0,1.0,1,1,10.0
+Ford Fiesta Classic 2012 diesel,825000.0,18.0,1400.0,2,60000.0,3.0,0,0,13.0
+Celerio AGS Needed,15.0,15.0,998.0,1,14364.0,2.0,1,0,4.0
+Maruti Suzuki Alto K10 Vxi,999999.0,16.0,999.0,1,87500.0,2.0,0,0,13.0
+Maruti Alto k10 2014 vxi model sale,1150000.0,14.0,1000.0,1,65000.0,2.0,0,0,11.0
+Daihatsu Terios 2010 model sale,2450000.0,14.0,1300.0,1,81000.0,1.0,1,1,15.0
+excellent condition ecosport on sell,1500000.0,15.0,1000.0,1,90000.0,1.0,0,0,12.0
+Suzuki Celerio VXI 2014,1600000.0,18.0,1000.0,1,54000.0,2.0,1,0,11.0
+Dual User,1375000.0,14.0,1200.0,1,58000.0,2.0,0,0,15.0
+Atto3 superior 2023 model ski white,5000000.0,18.0,1455.0,3,28000.0,1.0,1,0,2.0
+Tata Zest XT 2015 (Diesel  Engine),1475000.0,18.0,1200.0,2,60000.0,3.0,0,0,10.0
+Hyundai I20 Asta Dsl 2010 Urjent Sale 9841090856,1375000.0,18.0,1300.0,2,73000.0,2.0,0,0,15.0
+Swift Auto Gear Zxi,2650000.0,18.0,1200.0,1,28728.0,2.0,1,0,7.0
+mg4 luxury variant || 440 km rang,4200000.0,18.0,99.0,3,27000.0,2.0,1,0,1.0
+Nissan super salon 2007 auto gear sell and exchang,1050000.0,14.0,1500.0,1,65000.0,3.0,1,0,18.0
+Volkswagen polo1.6 2018 highlin seell and exchang,1850000.0,14.0,1600.0,1,42000.0,2.0,0,0,7.0
+Renault Kiger RXZ_Full Options,2600000.0,17.0,1000.0,1,41500.0,1.0,0,1,4.0
+Isuzu D-max Scap 2021 2WD,3150000.0,13.0,2499.0,2,45000.0,4.0,0,0,4.0
+VOLKSWAGEN TIGUAN AUTO ON SALE,2399999.0,14.0,2000.0,2,78000.0,1.0,1,1,14.0
+Maruti Suzuki Swift vxi 2008 model  Urgent Sale,1200000.0,14.0,1298.0,1,70000.0,2.0,0,0,17.0
+i20 asta,1390000.0,14.0,1200.0,1,52000.0,2.0,0,0,15.0
+Honda WRV 1.5,3300000.0,18.0,1500.0,2,43000.0,1.0,0,0,7.0
+Hyundai Santro Sportz,2250000.0,15.0,1086.0,1,49000.0,2.0,0,0,6.0
+Peugeot 3008 GT Line 2019 Model for sale!!!,6500000.0,13.0,1600.0,1,23940.0,1.0,1,0,6.0
+Urgent sale Maruti Suzuki Zen,580000.0,14.0,1000.0,1,132000.0,2.0,0,0,19.0
+Renault Duster petrol jeep bikri maa,2150000.0,12.0,1500.0,1,80500.0,1.0,0,0,8.0
+magna santro on sale!!!🔥🔥,2300000.0,15.0,1100.0,1,14364.0,2.0,0,0,4.0
+single hand santro on sale!!,2250000.0,15.0,1100.0,1,57456.0,2.0,0,0,13.0
+creta s gasoline ,2799000.0,14.0,1600.0,1,62000.0,1.0,0,0,10.0
+Grand i10 magna Urgent sell ‼️‼️,17000000.0,15.0,1200.0,1,180000.0,2.0,0,0,12.0
+Kia Seltos 2023 Htx Ivt,6100000.0,10.0,1500.0,1,10000.0,1.0,1,0,2.0
+Maruti Suzuki Celerio Zxi+ 2022 model for sale ,2800000.0,15.0,1000.0,1,32000.0,2.0,0,0,3.0
+Zotyo Jeep 2008 model sale&exchange 9851412829,675.0,12.0,1299.0,1,76608.0,1.0,1,0,17.0
+Urgent Suzuki swift vxi for sell,1425000.0,15.0,497.0,1,57456.0,6.0,0,0,13.0
+Prado dual ac 2008 model on sale 9860797831,6200000.0,10.0,3000.0,2,96000.0,1.0,0,1,17.0
+Baleno delta 2016 model on sale!,1950000.0,15.0,1200.0,1,63000.0,2.0,0,0,9.0
+Banker’s Driven Baleno Delta 2019,2250000.0,15.0,1199.0,1,42000.0,2.0,0,0,6.0
+syantro urgent sell,575000.0,15.0,1000.0,1,77000.0,2.0,0,0,24.0
+Hyundai sentro 2019 model Magna full apshan on sal,1950000.0,15.0,1086.0,1,39600.0,2.0,0,0,6.0
+Ford Figo Aspire 2018,1750000.0,15.0,1194.0,1,28728.0,2.0,0,0,7.0
+Hyundai Grand i10 Magna  2018,2250000.0,15.0,1197.0,1,28728.0,2.0,0,0,7.0
+KIA SELTOS HTX DSL 2020,4600000.0,18.0,1500.0,2,35000.0,1.0,0,0,5.0
+KIA SELTOS HTX 2020,4600000.0,18.0,1500.0,2,35000.0,1.0,0,0,5.0
+EON ERA+2014 model Car blue color-9851159949,1100000.0,15.0,800.0,1,47880.0,6.0,0,1,11.0
+TATA BUS 712/42 Ex,2200000.0,10.0,3783.0,2,1.0,6.0,0,0,9.0
+grand vitara 1992 model best for offroad,765000.0,16.0,1600.0,1,117000.0,1.0,0,1,33.0
+"FORD KUGA SUV 2600CC 
+
+AMERICAN OFF ROAD JEEP 
+
+गा",2790000.0,15.0,2400.0,2,57456.0,1.0,0,1,13.0
+I20 Elite Asta 2016,2295000.0,12.0,1200.0,1,59000.0,2.0,0,0,9.0
+"Landrover freelander 1 
+2006 model ko Gadi 
+100% s",2580000.0,15.0,2200.0,2,86184.0,1.0,0,1,19.0
+Toyota Fortuner 2012,6650000.0,12.0,3000.0,2,106000.0,1.0,0,1,13.0
+2012 Fresh Nano AC/Heater  Power Window ,345000.0,18.0,600.0,1,52000.0,2.0,0,0,13.0
+Honda Amaze 2014 - Petrol - Silver,1450000.0,14.0,1200.0,1,69000.0,3.0,1,0,11.0
+good condition car Toyota etios vx,1500000.0,14.0,1300.0,1,56000.0,3.0,0,0,12.0
+Brand New Tata Tiago Top Variant 2024,2450000.0,18.0,1188.4925,3,7000.0,2.0,1,0,1.0
+Ford Freestyle (White ),1800000.0,16.0,1194.0,1,90000.0,6.0,0,0,6.0
+👉 “Urgent Sale – Hyundai Santro | Excellent Condition | Ready to Drive”,1119000.0,14.0,1086.0,1,67000.0,6.0,1,0,16.0
+Hyundai santro 2007 sell and exchange,950000.0,14.0,1100.0,1,79000.0,2.0,0,0,18.0
+Hyundai santro 2006 sell and exchange,850000.0,14.0,1100.0,1,78000.0,2.0,0,0,19.0
+toyota hilux,1200000.0,12.0,2800.0,2,117000.0,4.0,0,1,30.0
+Full option Swift car for rent ,4000.0,15.0,1200.0,1,25000.0,3.0,0,0,9.0
+Mahindra Supro cargo van,900000.0,18.0,1000.0,2,42000.0,5.0,0,0,6.0
+"hyundai creta sx 2022 model 
+call no 9861317091",5800000.0,15.0,1197.0,1,32000.0,1.0,0,0,3.0
+SINGLE HANDED TATA NEXON XZ+LUX FOR SALE,2950000.0,18.0,100.0,3,22000.0,1.0,1,0,2.0
+Mahindra Thar 2017 Model ( Single Handed ),2950000.0,12.0,2500.0,2,46000.0,1.0,0,1,8.0
+Hyundai I20 Active’s,2495000.0,14.0,1200.0,1,180000.0,6.0,1,0,9.0
+Hyundai Santro Magna AMT 2019 Model,2200000.0,15.0,1086.0,1,42157.0,2.0,1,0,6.0
+Nissan Navara VL 2018 Single Hand,5950000.0,12.0,2488.0,2,37000.0,4.0,1,1,7.0
+Hyundai Creta Sx 2019 Model,4175000.0,14.0,1591.0,1,55853.0,1.0,0,0,6.0
+Hyundai Grand i10 Nios Magna,2775000.0,15.0,1200.0,1,30000.0,2.0,0,0,4.0
+2022 Kona EV on Sale,4400000.0,18.0,945.75,3,20000.0,1.0,1,0,3.0
+Kona EV 2022 Model,4550000.0,18.0,100.0,3,20800.0,1.0,1,0,3.0
+brezza zxi+ petrol,3600000.0,14.0,1500.0,1,45000.0,1.0,0,0,5.0
+Peugeot 3008 Allure 2.0 HDi Diesel 2018 – Sunroof,7200000.0,15.0,1997.0,2,53000.0,1.0,1,0,7.0
+2012 Model omni van sale,450.0,16.0,800.0,1,85000.0,5.0,0,0,13.0
+venue 1.2 s,3375000.0,15.0,1200.0,1,42000.0,1.0,0,0,4.0
+Suzuki WagonR Vxi 2012,1250000.0,15.0,1000.0,1,74000.0,2.0,0,0,13.0
+Creta Sxplus 2016 Petrol 1.6 Like New,3275000.0,18.0,1600.0,1,70000.0,1.0,0,0,9.0
+Suzuki Swift 2015 ZXI Full option with Push Bottom,1925000.0,14.0,1199.0,1,54400.0,2.0,0,0,10.0
+Volkswagen Cross Polo 1.6 2016 Highline,1875000.0,14.0,1598.0,1,44000.0,2.0,0,0,9.0
+Ford Freestyle Titanium 2021 Single Hand,2090000.0,15.0,1191.0,1,44000.0,2.0,0,0,4.0
+Honda Brio Car Silver Color-2013 Model,1250000.0,13.0,1200.0,1,58560.0,6.0,0,0,12.0
+EcoSport 2014 trend,1675000.0,13.0,1500.0,1,57000.0,1.0,0,0,11.0
+2018 Tiago Nrg singlehand sale exng 50%bank loan. ,1850000.0,15.0,1200.0,1,46000.0,2.0,0,0,7.0
+2021 kwid climber singlehand low run doctor use,1850000.0,15.0,1000.0,1,17500.0,2.0,0,0,4.0
+Ecosport,1725000.0,14.0,1500.0,1,47880.0,1.0,0,0,11.0
+Hyundai Grand I10 Asta 2014 Excellent condition ,1975000.0,15.0,1197.0,1,48000.0,2.0,0,0,11.0
+Maruti Suzuki Alto 800 LXI 2016 For Sale,1350000.0,16.0,800.0,1,54000.0,2.0,0,0,9.0
+car,1400000.0,13.0,1100.0,1,65000.0,1.0,1,1,27.0
+tata nexon xz+ 2018 single hand,2800000.0,18.0,1496.0,2,62000.0,2.0,0,0,7.0
+for deepal rims and tyre with fresh condition,123.0,18.0,2800.0,3,50000.0,6.0,0,0,0.0
+Ford Freestyle titanium 2021 only run 19K km ,2350000.0,15.0,1200.0,1,19000.0,2.0,0,0,4.0
+Car-Hyundai Santro Gl Plus,1550000.0,15.0,1100.0,1,52668.0,2.0,0,0,12.0
+Kia Seltos HTK,4190000.0,14.0,1500.0,1,36000.0,1.0,0,0,3.0
+Eeco Van,1250000.0,12.0,1200.0,1,84000.0,5.0,1,1,12.0
+Full Option 2024 BMW iX3 Electric,21200000.0,14.0,5092.5,3,14000.0,1.0,1,0,1.0
+Single Owner Full Option 2015 Etios Cross V,1950000.0,14.0,1500.0,1,70000.0,2.0,0,0,10.0
+Single Owner 2018 Hyundai i20 Active Base,2675000.0,15.0,1200.0,1,47000.0,2.0,0,0,7.0
+Full Option 2021 Kia Seltos HTX (w/Full History),4775000.0,14.0,1500.0,1,24000.0,1.0,0,0,4.0
+santro single hand,1350000.0,16.0,1100.0,1,98000.0,2.0,0,0,13.0
+2020 Hyundai Santro Era (w/Full Service History),2055000.0,15.0,1100.0,1,48000.0,2.0,0,0,5.0
+Brezza ZDI+ 2018 on sale,2850000.0,18.0,1248.0,2,64000.0,1.0,0,0,7.0
+Tata Nexon XZ+ Diesel 2018  running 38000km  28 L,2800000.0,18.0,1496.0,2,38000.0,1.0,0,0,7.0
+"FORD KUGA SUV 2600CC 
+
+AMERICAN OFF ROAD JEEP 
+
+गा",2050000.0,18.0,1800.0,1,57456.0,1.0,0,1,13.0
+Ford Kuga suv 2600cc,28.0,14.0,6000.0,1,57456.0,1.0,1,0,13.0
+Eeco Cargo 2020 For Sale And Exchange,1150000.0,16.0,1200.0,1,40100.0,5.0,0,0,5.0
+Honda City,1625000.0,14.0,1500.0,1,52668.0,3.0,0,0,12.0
+Kwid 2017,1150000.0,17.0,800.0,1,42000.0,2.0,0,0,8.0
+Indica Petrol 2015,849000.0,18.0,1200.0,1,52000.0,2.0,0,0,10.0
+Hyundai Creta Ex “Single Hand” 2020,4050000.0,14.0,1497.0,1,19152.0,1.0,0,0,5.0
+Brezza zdi+ 2016 Model,2700000.0,15.0,1248.0,2,46000.0,1.0,0,0,9.0
+good  condition car Toyota etios vx,1525000.0,15.0,1500.0,1,55500.0,3.0,0,0,12.0
+Hyundai Sonata 2010,2800000.0,12.0,2400.0,1,45000.0,3.0,0,0,15.0
+swift dsire ,1100000.0,15.0,1300.0,1,75000.0,2.0,0,0,16.0
+Single User like new  Ford Figo 2013 Model on sale,1100000.0,12.0,1200.0,1,48000.0,2.0,0,0,12.0
+Hyundai Grand I10 Magna 2015,1970000.0,15.0,1197.0,1,62000.0,2.0,0,0,10.0
+Alto K10 VXI 2011 MODEL FIXED PRICE,850000.0,15.0,999.0,1,62244.0,2.0,0,0,14.0
+Suzuki Brezza [smart hybrid],4550000.0,18.0,1461.0,4,36000.0,1.0,0,0,2.0
+Jeep Compass Model S 4x4 Diesel  Auto Urgent Sale,9300000.0,12.0,2000.0,2,26000.0,1.0,1,1,4.0
+Suzuki Baleno 2016,1850000.0,15.0,1200.0,1,57000.0,2.0,0,0,9.0
+Maruti Suzuki Breeza Zdi* 2018 model for sale ,3150000.0,18.0,1248.0,2,62000.0,1.0,0,0,7.0
+Hyundai I20 Magna 2009,1290000.0,15.0,1197.0,1,71820.0,2.0,0,0,16.0
+Datsun ,1250000.0,15.0,1200.0,1,64.0,2.0,0,0,8.0
+Hyundai Santro GLS 2008,1050000.0,15.0,1086.0,1,71236.0,2.0,0,0,17.0
+Dongfeng Box E2,2975000.0,18.0,280.0,3,300.0,2.0,1,0,1.0
+"Mahindra E Verito D6 ""Single Hand"" 2018",1250000.0,18.0,739.625,3,55152.0,3.0,1,0,7.0
+Maruti Suzuki Swift Dzire VXi 2013 ,1575000.0,15.0,1197.0,1,68000.0,3.0,0,0,12.0
+Skoda laura,1150000.0,13.0,1900.0,2,90000.0,3.0,0,0,16.0
+TATA EV TAXI 2024,4325000.0,18.0,1164.0,3,30000.0,3.0,1,0,1.0
+Santro xing 📞📞📞9823379636,1050000.0,15.0,1087.0,1,65000.0,2.0,0,0,16.0
+Datsun go 2017 model on sale,1225000.0,14.0,1200.0,1,55500.0,2.0,0,0,8.0
+Skoda rapid ,1375000.0,15.0,1600.0,2,66000.0,3.0,0,0,11.0
+Hyundai i10 magna 2016 sell and exchange,1775000.0,14.0,1100.0,1,35000.0,2.0,1,0,9.0
+Hyundai i20 asta 2009 sell and exchange,1250000.0,14.0,1200.0,1,62000.0,2.0,0,0,16.0
+Full Option 2016 Mitsubishi Pajero Sport,9500000.0,12.0,2400.0,2,44000.0,1.0,1,1,9.0
+suzuki swift DZiRE,990000.0,14.0,1298.0,1,71820.0,3.0,0,1,16.0
+Alto New shape 2016,2725000.0,16.0,796.0,1,180000.0,2.0,0,0,9.0
+Diesel AWD Kia Sportage,5000000.0,13.0,2000.0,2,47885.0,1.0,0,1,9.0
+Hyundai I10 Magna 2016 Single Hand,1675000.0,15.0,1086.0,1,53000.0,2.0,0,0,9.0
+Ford ecosport 2020 trend sell/exchange,2550000.0,12.0,1500.0,1,43000.0,1.0,0,0,5.0
+Suzuki AStar VXI 2013 Excellent Condition,1290000.0,15.0,998.0,1,55000.0,2.0,0,0,12.0
+i10 भन्दा धेरै feature भयको luxury malaysian no-1,625000.0,14.0,1100.0,1,44000.0,2.0,0,0,17.0
+Maruti Suzuki Swift ZXI 2016 Model,2100000.0,15.0,1200.0,1,38304.0,2.0,0,0,9.0
+Urgently selling White Suzuki Omni (2019 model),830000.0,18.0,800.0,1,23940.0,5.0,0,0,6.0
+Santro Sports 2010 Hyundai,2200000.0,18.0,1086.0,1,41000.0,2.0,0,0,6.0
+Honda city 2013 like  new,1625000.0,14.0,1400.0,1,44132.0,3.0,0,0,12.0
+Kicks Nissan Xv Premium 1500 Cc Petrol,3700000.0,15.0,1500.0,1,35000.0,1.0,0,0,4.0
+Hyundai i10  2009,1025000.0,15.0,1100.0,1,68509.0,2.0,0,0,16.0
+SUZUKI VITARA 1992MODEL (4×4) 50% FINANCE ✅,740000.0,14.0,1600.0,1,117000.0,1.0,0,1,33.0
+Toyota Yaris,1250000.0,14.0,1300.0,1,80000.0,3.0,0,0,17.0
+Super saloon 2007 Model sedan ✅ 50% finance,880000.0,14.0,1600.0,1,81396.0,3.0,0,0,18.0
+Ford festa   2010,825000.0,14.0,1400.0,1,58976.0,3.0,0,0,15.0
+Urgent sale Hyundai Eon delite plus 9861840690,990000.0,17.0,800.0,1,60.0,2.0,0,0,12.0
+Ufo suv jeep 2011 ,1025000.0,14.0,1400.0,1,65432.0,1.0,0,0,14.0
+Hyuandai  I10  Aastha car for sale/. 9841387347,2200000.0,15.0,1200.0,1,56.0,2.0,1,0,10.0
+"Toyota Soluna On Sale
+9841729010",625000.0,10.0,1500.0,1,85000.0,3.0,0,0,24.0
+1300cc Myvi 2010 model,899000.0,15.0,1300.0,1,65000.0,2.0,0,0,15.0
+Hyundai i20 asta 2009 sell and exchange,1250000.0,14.0,1200.0,1,62000.0,2.0,0,0,16.0
+Skoda Rapid,1725000.0,14.0,1500.0,2,85000.0,3.0,0,0,8.0
+toyota soluna,675000.0,14.0,1500.0,1,150000.0,3.0,1,0,24.0
+Ford ecosport titanium ,2235000.0,14.0,1500.0,1,52000.0,1.0,1,0,9.0
+Datsun Go 2019 Model New Shape,1575000.0,15.0,1200.0,1,49000.0,2.0,0,0,6.0
+viva,875000.0,15.0,1200.0,1,0.0,3.0,0,0,15.0
+Hyundai  i10,1025000.0,15.0,1100.0,1,65000.0,3.0,0,0,16.0
+Hyundai i10 2009 asta,1425000.0,13.0,1197.0,1,65000.0,2.0,0,0,16.0
+Hyundai i20 Active ,2550000.0,15.0,1200.0,1,28728.0,2.0,0,0,7.0
+polo 1.6 highline ,1825000.0,15.0,1200.0,1,52000.0,2.0,0,0,11.0
+grand i10 nios sportz,2925000.0,15.0,1200.0,1,57000.0,2.0,0,0,4.0
+Maruti suzuki swift VXI,1550000.0,15.0,1200.0,1,57456.0,2.0,0,0,13.0
+Omni cargo van,375000.0,15.0,796.0,1,84000.0,1.0,1,0,15.0
+Alto 800,725000.0,16.0,800.0,1,92000.0,2.0,1,0,18.0
+Datsun redi go,1050000.0,18.0,1000.0,1,56000.0,2.0,1,0,7.0
+Alto 800 LXI,1350000.0,17.0,800.0,1,74000.0,2.0,1,0,9.0
+i10 megna 9843049135,1225.0,12.0,1200.0,1,80.0,2.0,0,0,16.0
+Subaru Japanese Jeep,1600000.0,10.0,2500.0,1,78000.0,1.0,0,1,18.0
+Rav4,1200000.0,10.0,2000.0,1,115000.0,1.0,0,1,27.0
+Land Rover,1600000.0,12.0,2000.0,2,90000.0,1.0,0,0,26.0
+Pajero 4WD Suv Jeep,1000000.0,12.0,2500.0,2,150000.0,1.0,0,1,35.0
+ I20 Astha (Full option)2013 model is in sell,1700000.0,16.0,1200.0,1,80000.0,2.0,1,0,12.0
+my number is 9861474613 spark very fresh,800000.0,14.0,998.0,1,32000.0,2.0,0,0,12.0
+NISSAN SUPER SALON ..sedan,1300000.0,12.0,1600.0,1,69000.0,3.0,0,0,13.0
+CARGO VAN MODEL 2017,550000.0,15.0,796.0,1,33516.0,5.0,1,0,8.0
+FORCE TRAX CRUISER ,1600000.0,12.0,2599.0,2,28728.0,1.0,1,0,7.0
+Santro In Good Condition,495000.0,14.0,999.0,1,85000.0,2.0,0,0,23.0
+buleroduble cap for sell,1650000.0,14.0,2325.0,2,100000.0,4.0,0,1,9.0
+hyundai Getz fresh,695000.0,14.0,1400.0,1,89654.0,2.0,0,0,20.0
+New model Brezza 2024 ZXI+ Dual tone,5500000.0,16.6,1500.0,1,4100.0,1.0,0,0,1.0
+Fiat Car On Sell,1425000.0,14.0,1400.0,1,40000.0,1.0,1,0,9.0
+Nissan Kicks Model 2019,2800000.0,14.0,1600.0,2,38000.0,1.0,0,0,6.0
+Toyota Rav4 2007 model offroad japanese xuv sale,1950000.0,10.0,2400.0,1,91000.0,1.0,0,1,18.0
+Tata Nexon xzplus 2018 model sale,2450000.0,14.0,1200.0,1,65000.0,1.0,0,0,7.0
+Ford figo zxi 2012 model sale,950000.0,14.0,1200.0,1,72000.0,2.0,0,0,13.0
+single handed Datsun go 2016 model sale,1175000.0,14.0,1200.0,1,40000.0,2.0,0,0,9.0
+Hyundai i10 Magna ,1375000.0,13.0,1200.0,1,49000.0,2.0,0,0,16.0
+Ford Freestyle Titanium 1.2 2019,2025000.0,15.0,1197.0,1,53617.0,1.0,0,0,6.0
+Isuzu Hinder 4 Wheel,5300000.0,13.0,2500.0,2,4800.0,4.0,0,1,3.0
+wagan r,850000.0,18.0,1000.0,1,53000.0,2.0,0,0,17.0
+peugeot 3008 (2017),6500000.0,18.0,1600.0,2,33516.0,1.0,1,0,8.0
+ Urgent Car on Sale!!,2200000.0,18.0,999.0,1,18000.0,6.0,0,0,3.0
+Daihatsu terios sx 2014  4wd,3375000.0,12.0,1500.0,1,77000.0,1.0,0,1,11.0
+Alto Lxi 2013 @ 1050,1050000.0,18.0,800.0,1,85000.0,2.0,1,0,12.0
+Chery Tigo automatic with sunroof 2010 model,10.0,10.0,2000.0,1,65000.0,1.0,1,0,15.0
+2018 bireza fresh,2700000.0,18.0,1300.0,2,68000.0,1.0,1,0,7.0
+Toyota Etos single hand 2013 model,1450.0,14.0,1496.0,1,52000.0,3.0,0,0,12.0
+2019  Eeco van on sale...,1599000.0,14.0,1196.0,1,81000.0,2.0,0,0,6.0
+Full Option 2020 Mitsubishi Pajero 3 Door,13500000.0,12.0,3200.0,2,46000.0,1.0,1,1,5.0
+Urgent Sale 2006 Model Land Rover,2600000.0,13.0,2000.0,2,160.0,1.0,0,1,19.0
+Ramro Santro Car 11 Lakh Fixed Price,1100000.0,15.0,1086.0,1,85.0,6.0,0,1,16.0
+renault duster rxs 2017 model,2500000.0,18.0,1461.0,2,33516.0,1.0,0,0,8.0
+"Hyundai Creta 1.5 Ex  ""2020"" Single Hand",4050000.0,14.0,1591.0,1,44000.0,1.0,0,0,5.0
+santro 2009 model,1099000.0,15.0,1086.0,1,85.0,2.0,0,1,16.0
+Hyundai i10 magna on sale ,1.0,12.0,1200.0,1,70.0,2.0,1,1,16.0
+fresh creta on sale!!!!🔥🔥🔥,4550008.0,14.0,1500.0,1,54000.0,2.0,0,0,4.0
+Alto ac fresh,710000.0,16.0,800.0,1,87000.0,2.0,0,0,17.0
+Hyundai Santro-Urgent Sell(Phone no.=9851350655) ,2125000.0,15.0,1100.0,1,40000.0,2.0,1,0,6.0
+Vw touareg v6 for sell,5000000.0,12.0,3000.0,2,100000.0,1.0,1,1,14.0
+Terious Zyote 2010,775000.0,10.0,1300.0,1,80000.0,1.0,0,0,15.0
+Ford figo good condition ,1000000.0,12.0,1.0,2,57456.0,3.0,1,0,13.0
+Toyota Yaris sedan 2008 sell and exchange,1175000.0,14.0,1300.0,1,5700.0,3.0,0,0,17.0
+Proton emas 7,6000000.0,18.0,3880.0,3,6828.0,1.0,1,0,0.0
+Maruti Suzuki Swift Desire ZXI 2017 For Sale,2350000.0,15.0,1196.0,1,51000.0,3.0,0,0,8.0
+Kia Seltos htk Plus ,4050000.0,14.0,1497.0,1,46000.0,1.0,0,0,4.0
+Hyundai Santro ,1050000.0,15.0,1086.0,1,60000.0,2.0,0,0,17.0
+TATA,1600000.0,18.0,1500.0,2,93.0,4.0,0,1,10.0
+Kia picanto  2010,925000.0,15.0,1200.0,1,58769.0,2.0,0,0,15.0
+Hyundai santro 2006 sell and exchange,850000.0,14.0,1100.0,1,87000.0,2.0,0,0,19.0
+deepal E07 2024 sell and exchange,8500000.0,18.0,190.0,3,7000.0,1.0,1,0,1.0
+Skoda rapid ,1350000.0,18.0,1600.0,2,80.0,3.0,0,0,12.0
+Kia Sportage,1299999.0,10.0,2000.0,1,71000.0,1.0,0,0,18.0
+Renault Duster _ Diesel,2100000.0,18.0,1461.0,2,60000.0,1.0,0,0,8.0
+nano2011,385000.0,18.0,700.0,1,37000.0,5.0,1,0,14.0
+Scorpio S5(4wd),4950000.0,13.0,2000.0,2,90000.0,1.0,0,1,4.0
+Chevrolet Aveo 1.6 2006 on Sale,600000.0,14.0,1600.0,1,86184.0,3.0,0,0,19.0
+Hyundai Grand i10 Nios Sports – 2021 Model On sale,2950000.0,12.0,1200.0,1,41000.0,2.0,0,0,4.0
+Nexon Tata Lux Dk Xz+,3100000.0,18.0,25.0,3,28.0,1.0,1,0,2.0
+Hyundai EON ERA 2016 for Sale,1200000.0,18.0,814.0,1,180000.0,2.0,0,0,9.0
+Hyundai Tucson i35,2300000.0,12.0,2500.0,1,108000.0,6.0,0,1,14.0
+creta sx 2015 model bikrima aayo,3200000.0,14.0,1500.0,1,43092.0,1.0,0,0,10.0
+Hyundai Creta SX 2015 Model on sale!!!,3200000.0,14.0,1500.0,1,43092.0,1.0,0,0,10.0
+Nissan Tidda  Japanese,950000.0,10.0,1800.0,1,55000.0,3.0,0,0,18.0
+Hyundai Grand I10 Magna 2018 Single Hand,2190000.0,15.0,1197.0,1,28728.0,2.0,0,0,7.0
+Hyundai I20 Active S 2017 Single Hand,2675000.0,15.0,1197.0,1,40000.0,2.0,0,0,8.0
+Maruti Suzuki Swift VXI 2015 (13 Lot) For Sale,1925000.0,15.0,1197.0,1,55000.0,2.0,1,0,10.0
+Chevrolet Spark LT 2007 For Sale ,525000.0,12.0,1000.0,1,81396.0,2.0,0,0,18.0
+Renault Kwid RXT O 2017 For Sale ,1150000.0,16.0,800.0,1,45009.0,2.0,0,0,8.0
+Hyundai i20 Active S 2018 For Sale ,2950000.0,15.0,1200.0,1,28728.0,1.0,0,0,7.0
+Honda Mobilio 1.5 VMT 7 Seater “Single Hand” 2015,2090000.0,14.0,1497.0,1,57348.0,2.0,0,0,10.0
+Maruti Suzuki Ritz,1075000.0,18.0,1197.0,1,67000.0,2.0,0,0,15.0
+"Hyundai  i20 Astha  ""2017""",2550000.0,15.0,1197.0,1,57800.0,1.0,0,0,8.0
+Verna sx ,1850000.0,14.0,1600.0,1,54000.0,3.0,0,0,12.0
+Hyundai I10 Magna 2012 Single Hand,1550000.0,15.0,1197.0,1,55000.0,2.0,0,0,13.0
+Datsun Go 2016 Excellent Condition with airbag,1190000.0,15.0,1198.0,1,65000.0,2.0,0,0,9.0
+2020 renault triber singlehand sale exng50%loan,1850000.0,15.0,1000.0,1,47000.0,1.0,0,0,5.0
+2015 Hyundai Verna on Sale,2450000.0,10.0,1600.0,1,53000.0,3.0,0,0,10.0
+Renault Duster 2017 model on sale!!!,2150000.0,14.0,1500.0,2,68000.0,1.0,0,0,8.0
+Hyundai Santro  2013 Model For Sale,1475000.0,15.0,1086.0,1,52668.0,2.0,0,0,12.0
+2021 Tata Nexon Xz+ on Sale,3300000.0,12.0,1197.0,1,47500.0,1.0,0,0,4.0
+2018 Maruti Suzuki Brezza Dualtone for Sale,3100000.0,15.0,1197.0,2,62000.0,1.0,0,0,7.0
+Corola Lx 2007 Single Hand For Sale,1775000.0,14.0,1500.0,1,51000.0,3.0,0,0,18.0
+"Hyundai  i10 Magna ""2010""",1424000.0,15.0,1197.0,1,70500.0,2.0,0,0,15.0
+Ford EcoSport Trend-(Phone no.=9851350655),1890000.0,12.0,1500.0,1,55000.0,1.0,0,0,9.0
+Hyundai Creta-Urgent sell(Phone no.=9851350655),4575000.0,10.0,1591.0,1,46000.0,1.0,1,0,6.0
+Kia Sportage diesel 2018 Model 4wd,4900000.0,13.0,2000.0,2,93000.0,1.0,0,1,7.0
+Skoda Rapid Ambition 2016 On Sale,1750000.0,14.0,1600.0,1,49000.0,3.0,0,0,9.0
+Jac Pick Up 2022 Good Condition,3500000.0,13.0,2000.0,2,49286.0,4.0,0,1,3.0
+Toyota Corolla LX 2007,1175000.0,14.0,1499.0,1,90972.0,3.0,1,0,20.0
+Rent a car/car rent/car rental service/,1000.0,13.0,1600.0,1,67032.0,1.0,1,0,15.0
+Kia Seltos For Sale,4100000.0,14.0,1493.0,1,29500.0,1.0,0,0,3.0
+2007 toyota rav4 4wd fulloption sale exng car jeep,2350000.0,10.0,2000.0,1,75000.0,1.0,0,1,18.0
+SUZUKI BREZZA,2850000.0,18.0,1298.0,2,65000.0,1.0,0,0,7.0
+Single Owner Full Option 2019 Suzuki WagonR Zxi,2275000.0,15.0,1200.0,1,27000.0,2.0,0,0,6.0
+Ford Figo Exi 2011 model for sale ,1100000.0,15.0,1200.0,1,62244.0,2.0,0,0,14.0
+Daihatsu Sirion full option car  2006 Model ,600000.0,12.0,996.0,1,50632.0,2.0,0,0,19.0
+VW polo 2013 comfortline full vw service history,1400000.0,14.0,1200.0,1,57000.0,2.0,0,0,12.0
+Brand new tata 407 on hire,2500.0,12.0,3000.0,2,3000.0,4.0,0,0,0.0
+Hyundai Santro 2010,1175000.0,15.0,1080.0,1,67032.0,2.0,0,1,15.0
+Renault Duster RXL 2017 Model,2075000.0,13.0,1600.0,1,49000.0,1.0,0,0,8.0
+Suzuki brezza zxi+ 2022 single 9802355901,3875000.0,14.0,1462.0,1,40000.0,1.0,0,0,3.0
+2005 model ko terios gadi bikrima aayo,1350000.0,14.0,1500.0,1,90972.0,1.0,0,1,20.0
+chevrolet captiva ltz 2009 model,1800000.0,13.0,2000.0,2,140000.0,1.0,1,1,16.0
+kia sportage 2010 model ,2850000.0,13.0,2000.0,2,84267.0,1.0,1,1,15.0
+Tata Nexon Ev Lux Prime Soonroof,3000000.0,18.0,99.0,3,41000.0,1.0,1,0,3.0
+DAIHATSU TERIOS SX 2005 Model on sale!!!,1350000.0,14.0,1500.0,1,109000.0,1.0,0,1,20.0
+Suzuki Ignis 2005 Dual Airbags,599000.0,14.0,1200.0,1,82000.0,2.0,0,0,20.0
+Škoda Fabia 2012 – Excellent Condition ,950000.0,15.0,1200.0,1,57456.0,2.0,1,0,13.0
+Renault kiger ,2425000.0,15.0,100.0,1,74000.0,1.0,0,0,4.0
+TERIOS 4wd,3000000.0,14.0,1500.0,1,80000.0,1.0,0,1,13.0
+Toyota Hilux Revo 2019 model for sale ,7900000.0,12.0,2800.0,2,82000.0,4.0,0,1,6.0
+2012 model ko tata nano bikrima aayo,400000.0,15.0,624.0,1,57456.0,2.0,0,0,13.0
+2022 model ko kia seltos  bikrima aayo,5500000.0,14.0,1497.0,1,36000.0,1.0,1,0,3.0
+2016 kia Sportage 4 wheel drive,3725000.0,10.0,2000.0,1,79000.0,1.0,0,1,8.0
+Toyota Land cruiser 3 door 3L engine,3100000.0,12.0,2800.0,2,180000.0,1.0,0,1,34.0
+xtrail call 9813871741,1199999.0,15.0,2000.0,2,90000.0,1.0,0,1,23.0
+Maruti Suzuki Swift ZXi 2007,1290000.0,15.0,1197.0,1,63519.0,2.0,0,0,18.0
+Mitsubishi Outlander Auto 4WD 2014 Well Condition,4175000.0,12.0,2360.0,1,44000.0,1.0,1,1,11.0
+Nissan Kicks On Sale,3400.0,15.0,1477.0,1,45000.0,1.0,0,0,4.0
+2016 model ko suzuki celerio zxi  1000 cc bikrima,1800000.0,15.0,100.0,1,38304.0,2.0,0,0,9.0
+Single Owner 2010 Hyundai i10 Magna 1.2,1325000.0,15.0,1200.0,1,68000.0,2.0,0,0,6.0
+2016 Hyundai Grand i10 Magna for sale,2095000.0,15.0,1200.0,1,53000.0,2.0,0,0,9.0
+Mitsubishi Pajero 3Door 2020 Model,12500000.0,12.0,2200.0,2,19152.0,1.0,1,1,5.0
+Gtline Sonet Kia,4100000.0,15.0,1500.0,2,46000.0,1.0,0,0,5.0
+Kia Sportage 2008 model  2009 made,1725000.0,10.0,1998.0,1,79.0,1.0,0,0,16.0
+Maruti Suzuki Celerio ZXI 2016 Model on sale!!!,1800000.0,17.0,998.0,1,38304.0,2.0,0,0,9.0
+2021nissan.kicks petrol singlehand sale xng50%loan,3350000.0,14.0,1500.0,1,37000.0,1.0,0,0,4.0
+Toyota rav4 automatic 2016 model,7000000.0,10.0,2000.0,1,58670.0,1.0,1,1,9.0
+Ssangyong Kyron  [ Korean],1350000.0,10.0,2000.0,2,72000.0,1.0,0,1,12.0
+Kia Sonet Automatic 2022 Fresh,4599000.0,16.0,1498.0,2,16000.0,1.0,1,0,3.0
+Kia Sonet HTE - Excellent Condition 2022 Model,3300000.0,15.0,1200.0,1,12000.0,1.0,0,0,3.0
+Grand i10 Magna 2018 For Sale,2400000.0,18.0,1199.0,1,35000.0,2.0,0,0,7.0
+2010 model ko Ecovan  bikrima aayo,1050000.0,15.0,1200.0,1,67032.0,5.0,0,0,15.0
+Toyota Hilux Vigo 2010 model for sale ,3300000.0,12.0,2500.0,2,91000.0,4.0,0,1,15.0
+Grand i10 Asta 2014 Model,1865000.0,15.0,1200.0,1,62000.0,2.0,0,0,11.0
+Ford Figo ZXI 2011 For Sale.,1050000.0,15.0,1197.0,1,62000.0,2.0,0,0,14.0
+Maruti Suzuki Alto K10 VXI 2015 For Sale.,1450000.0,15.0,1000.0,1,43000.0,2.0,0,0,10.0
+Single Owner 2013 Hyundai i20 Magna (w/History),1725000.0,15.0,1200.0,1,75000.0,2.0,0,0,12.0
+VW Polo 1.6 Highline (2013),1550000.0,14.0,1600.0,1,48000.0,2.0,0,0,12.0
+kia picanto for sale,550000.0,15.0,1200.0,1,80000.0,2.0,0,0,21.0
+Maruti Suzuki,400000.0,18.0,1000.0,1,75000.0,2.0,1,0,24.0
+Daihatsu Terios 2013 model for sale ,3450000.0,14.0,1500.0,1,73000.0,1.0,0,1,12.0
+Nissan Sunny Ex-salon,475000.0,12.0,1300.0,1,95000.0,3.0,0,0,27.0
+Proton Saga (automatic),1950000.0,14.0,1300.0,1,13000.0,3.0,1,0,4.0
+toyota corolla 2008 on sell,1625000.0,11.0,1600.0,1,0.0,3.0,1,0,17.0
+Renault Duster RXZ+ AMT 2016 Single Hand,2075000.0,18.0,1461.0,2,52000.0,1.0,1,0,9.0
+Chevrolet Aveo,800000.0,14.0,1400.0,1,128000.0,2.0,0,0,15.0
+2005 nissan cefiro japnese v6 engine auto sunroof ,1650000.0,12.0,2400.0,1,78000.0,3.0,1,0,20.0
+CHEVROLET UVA+ 2008 MODEL FULL OPTION,649999.0,10.0,1150.0,1,50000.0,2.0,0,0,17.0
+Wagon R Zxi 2019 Sales,2600000.0,18.0,1997.0,1,32000.0,1.0,1,0,6.0
+Peugeot 3008 2017 model,5500000.0,14.0,1500.0,1,57400.0,1.0,1,0,8.0
+राम्रो कन्डिसन को Tata Xenon फाईन्नस सुबिधा सहित,2000000.0,14.0,2200.0,2,78000.0,4.0,0,0,9.0
+Maruti Suzuki EECO Van 2010 Model is on sale!!!,1049000.0,15.0,1196.0,1,67032.0,5.0,0,0,15.0
+Volkswagen Tiguan 2.0 “Single Hand” 2016,3789000.0,10.0,1984.0,1,59700.0,1.0,0,0,9.0
+2019 Mahindra Scorpio S5 4wd for sale,4500000.0,10.0,2200.0,2,91000.0,1.0,0,1,6.0
+Kia Rio 2004 Model On Sale,555000.0,14.0,1493.0,1,72000.0,3.0,0,0,21.0
+Honda Amaze SMT (2013),1350000.0,15.0,1200.0,1,75950.0,3.0,0,0,12.0
+Hyundai Creta E+ 2017,3345000.0,15.0,1591.0,1,55000.0,1.0,0,0,8.0
+2018 Volkswagen Polo 1.6 Highline,2180000.0,14.0,1600.0,1,50000.0,2.0,0,0,7.0
+Hundai I20 Asta Full Option push Start 2016 Model,2225000.0,15.0,1200.0,1,67452.0,2.0,0,0,9.0
+Santro Zing Xo 2006 Model full Option 9801824689,925000.0,15.0,1100.0,1,86253.0,2.0,0,0,19.0
+VolkSwagen Tiguan 2.0 2012,2800000.0,10.0,1984.0,1,78000.0,1.0,0,0,13.0
+Suzuki Vitara 2007 Model 1350000 fixed price Hurry,1350000.0,10.0,2000.0,1,49000.0,1.0,0,0,18.0
+Duster 2017 Autamuc Transmission Fully Fresh,2399999.0,15.0,1400.0,2,35000.0,1.0,1,0,8.0
+Hyundai i10 Car,1125000.0,12.0,1200.0,1,58535.0,2.0,0,0,16.0
+2022 model ko kia seltos bikrima aayo,5500000.0,14.0,1497.0,1,36000.0,1.0,1,0,3.0
+SINGLE HAND HONDA CITY,1600000.0,13.0,1600.0,1,78000.0,3.0,0,0,12.0
+Isuzu V-cross 2018 model for sale ,3900000.0,12.0,2500.0,2,28728.0,4.0,0,1,7.0
+Maruti Suzuki A Star Zxi,1400000.0,16.0,998.0,1,72000.0,2.0,0,0,13.0
+Nissan Terrano XV Automatic 2018 Model,2675000.0,15.0,1600.0,2,60500.0,1.0,1,0,7.0
+2018 Isuzu Dmax Vcross for sale,3800000.0,12.0,2500.0,2,68000.0,1.0,0,1,7.0
+Jeep Compass Limited Autogear 2022 Model,8000000.0,10.0,2000.0,1,9576.0,1.0,1,1,3.0
+FREE LANDER 2,4500000.0,11.0,2200.0,2,77000.0,1.0,1,1,17.0
+Hyundai Tucson GLS “2014”,3869000.0,13.0,1991.0,2,72169.0,1.0,0,1,11.0
+SANTRO,2050000.0,15.0,1100.0,1,50000.0,2.0,0,0,6.0
+2011 model ko muruti bikrima aayo,775000.0,15.0,800.0,1,62244.0,2.0,0,0,14.0
+2018 Isuzu Dmax Scab on sale,2800000.0,12.0,2400.0,2,65000.0,4.0,0,0,7.0
+honda city,2499999.0,12.0,1500.0,1,43092.0,3.0,0,0,10.0
+Tata Nexon EV Prime,3100000.0,18.0,100.0,3,40000.0,1.0,1,0,2.0
+Hyundai Tucson GLS “2014”,3870000.0,13.0,1991.0,2,72169.0,1.0,0,1,11.0
+Ford Figo Zxi 2011 On Sale,1075000.0,15.0,1200.0,1,58000.0,2.0,0,0,14.0
+🚘 Premium Pickup on Sale – Nissan Navara VL 2018,6800000.0,11.0,2455.0,2,64000.0,4.0,1,1,7.0
+Maruti Suzuki eco van 2018 model 7 sitar on sale,1700000.0,15.0,1200.0,1,57000.0,5.0,0,0,6.0
+Skoda Rapid 1.5 Active 2019,1950000.0,18.0,1498.0,2,68000.0,3.0,0,0,6.0
+Kia Sonet Gt Line,3900000.0,18.0,1500.0,2,45000.0,1.0,0,0,5.0
+Renault kwid RXT O variant 2021 model on sale,1750000.0,18.0,1000.0,1,14364.0,2.0,0,0,4.0
+Mercedes Benz Glc 220d Like New Conditions Top,190.0,12.0,2143.0,2,31000.0,1.0,1,1,7.0
+Land rover defender 2015 model,13500000.0,12.0,2200.0,2,66450.0,1.0,0,1,10.0
+COROLLA LX ,1675000.0,14.0,1597.0,1,114806.0,3.0,0,0,18.0
+CIAZ ZETA,2250000.0,14.0,1373.0,1,65000.0,3.0,0,0,8.0
+Jeep Compass Limited Plus AMT 2019 (Single Hand),6490000.0,14.0,1386.0,1,38857.0,1.0,1,0,6.0
+Jeep compass limited 4wd 2018 model,6000000.0,13.0,2000.0,2,68000.0,1.0,0,1,7.0
+Brezza vdi 2018 model 9851137245,2850000.0,15.0,1248.0,2,44000.0,1.0,0,0,7.0
+2016 Model Ko Nissan Indio 775000,775000.0,18.0,799.0,1,71751.0,6.0,1,1,9.0
+Renault Kiger Rxz Top Variant,2750000.0,17.0,999.0,1,31000.0,1.0,0,0,4.0
+scorpio s6+ on sell,35000.0,12.0,2200.0,2,38304.0,1.0,1,0,9.0
+ISUZU D-MAX V-Cross 4WD “2017”,3549000.0,12.0,2499.0,2,53586.0,4.0,0,1,8.0
+Santro GLS,1100000.0,17.0,1086.0,1,84000.0,2.0,0,0,16.0
+KOREAN BRAND HYUNDAI GETZ 2007 MODEL FULL OPTION,775999.0,10.0,1498.0,1,80110.0,2.0,0,0,18.0
+Vehicle For Rent,8500.0,11.0,1500.0,1,1.0,1.0,0,0,5.0
+Navar VL,7000000.0,12.0,2500.0,2,64000.0,4.0,1,1,7.0
+Nexon XZ+ 2020,3050000.0,18.0,1200.0,1,47000.0,1.0,0,0,5.0
+Mitsubishi ASX 4wd 2017 with Finance Facility,5800000.0,10.0,2000.0,1,71000.0,1.0,1,1,8.0
+Latest Shape 2021 Hyundai Tucson Petrol,7350000.0,10.0,2000.0,1,38000.0,1.0,0,0,4.0
+Kia Picanto 2007,775000.0,15.0,1086.0,1,67000.0,2.0,0,0,18.0
+Maruti Suzuki Brezza Zxi+ 2023 Model,4800000.0,18.0,1500.0,4,4788.0,1.0,0,0,2.0
+Mahindra XUV 500 AWD 2021 Model with Sunroof,5500000.0,12.0,2200.0,2,14364.0,1.0,0,1,4.0
+Creata,3300000.0,14.0,1600.0,1,54000.0,1.0,0,0,10.0
+KIA Suv On Sale,2350000.0,18.0,1995.0,2,65000.0,1.0,1,1,13.0
+Magnite Needed Urgent,2100000.0,15.0,999.0,1,10000.0,1.0,0,0,4.0
+Full Option 2007 Hyundai Santro XO,1095000.0,15.0,1100.0,1,87000.0,2.0,0,0,18.0
+Toyota Hilux 1993 Model ,1250000.0,12.0,3000.0,2,152000.0,4.0,0,1,32.0
+Santro sportz Car on sale,2250000.0,18.0,1100.0,1,40000.0,2.0,0,0,6.0
+MG ZS EV Sell,4300000.0,18.0,2400.75,3,27000.0,6.0,1,0,2.0
+Chevrolet Aveo Lt,899000.0,12.0,1400.0,1,90000.0,1.0,1,0,13.0
+Nexon XM (petrol),2300000.0,14.0,1200.0,1,71450.0,1.0,0,0,6.0
+Truck bikri ma Bharat Benz 2016 model,1000000.0,10.0,3907.0,2,100000.0,4.0,0,0,9.0
+Land Rover Freelander 2 2015 Model Single Hand,125.0,14.0,6000.0,2,52000.0,1.0,1,1,10.0
+2011 model ko tuscon bikrima aayo,2500000.0,13.0,2000.0,2,62244.0,1.0,0,1,14.0
+Santro Car on Sale,1230000.0,17.0,1086.0,1,55000.0,2.0,1,0,16.0
+SPORTAGE AWD ,3100000.0,10.0,1998.0,1,75000.0,1.0,0,1,11.0
+Car on Sale,1230000.0,17.0,1.0,1,70000.0,2.0,1,0,15.0
+ CAPTIVA LTZ ,2400000.0,13.0,1991.0,2,57456.0,1.0,1,1,13.0
+Car on sale 2012 model,950000.0,14.0,1200.0,1,6500.0,2.0,1,0,13.0
+Nissan x trail 2006,1800000.0,13.0,2000.0,2,99999.0,1.0,0,1,19.0
+PEUGEOT 3008|SUNROOF|SPECIAL 5678 NUMBER|AUTO ,5850000.0,14.0,1600.0,1,48000.0,1.0,1,0,7.0
+Kia picanto available for rent,4000.0,15.0,1100.0,1,81396.0,2.0,0,0,18.0
+Ford Freestyle Titanium,2100000.0,15.0,1200.0,1,57000.0,2.0,0,0,6.0
+rent Suzuki Swift ZXI 2007 model ,5000.6,14.0,1298.0,1,81396.0,2.0,0,0,18.0
+Creta sx 2021 model 9851137245,5300000.0,13.0,1500.0,1,35000.0,1.0,0,0,4.0
+HIGER EV 101 KWH - Liquid Cooled Battery ,8190000.0,18.0,2024.0,3,0.0,5.0,1,0,1.0
+Omni Van On Rent ( 7 seater ),5000.0,15.0,796.0,1,38304.0,5.0,0,0,9.0
+Creta sx 2021 model 9851137245,5300000.0,13.0,1500.0,1,26000.0,1.0,0,0,4.0
+Renault Duster,3470000.0,18.0,1500.0,2,24350.0,1.0,0,0,9.0
+Grand i10 magna 2017 model on sale 9851137245,2150000.0,14.0,1197.0,1,47000.0,2.0,0,0,8.0
+Tata nexon xm s 2021 model with sunroof on sale ,2850000.0,14.0,1199.0,1,40000.0,1.0,0,0,4.0
+Toyota corolla LX 2009 model is on sale ,1850000.0,13.0,1600.0,1,67000.0,3.0,0,0,16.0
+Hyundai Santro Sportz 2019  18000KM  23 lot  Sale,2200000.0,15.0,1086.0,1,18600.0,2.0,0,0,6.0
+Eco van 7 seater2016,1325000.0,15.0,1200.0,1,180000.0,5.0,0,0,9.0
+Kia picanto ,965000.0,13.0,1086.0,1,82.0,2.0,0,0,15.0
+Toyota RAV 4 Hybrid 2020 Model Autogear,12500000.0,14.0,2500.0,4,19152.0,1.0,1,1,5.0
+Peugeot 3008 GT line 2021 Model with Sunroof,8500000.0,14.0,1600.0,1,14364.0,1.0,1,1,4.0
+Kia Picanto 2016 Model,1550000.0,15.0,1000.0,1,38304.0,2.0,0,0,9.0
+Daihatsu Terios 2009 Grey,2500000.0,14.0,1500.0,1,71820.0,1.0,0,1,16.0
+BEST MENTAINED MITSUBISHI PAJERO 2 MOTOR AIRCON,4500000.0,10.0,2800.0,2,180000.0,1.0,0,1,24.0
+Mahindra Bolero SLS Power 2018 is on sale!,2400000.0,18.0,1493.0,2,52000.0,1.0,0,0,7.0
+HONDA JAZZ 1.2 IVTEC,1450000.0,14.0,1200.0,1,69000.0,2.0,0,0,16.0
+Ford ecosport 2017 petrol,2100000.0,18.0,1496.0,1,39363.0,1.0,0,0,8.0
+Toyota Hilux 2020 Model (Single hand),8200000.0,12.0,2800.0,2,19152.0,4.0,0,1,5.0
+Toyota Hilux 2019 Model with canopy,7200000.0,12.0,2500.0,2,23940.0,4.0,0,1,6.0
+ford figo zxi 2014 model on sale,1150000.0,15.0,1200.0,1,58000.0,2.0,0,0,11.0
+Hyundai i10 2019 Magna,2300000.0,15.0,1197.0,1,23940.0,2.0,0,0,6.0
+Proton Car 2005 Model 9823657076,475000.0,14.0,1500.0,1,90972.0,3.0,0,0,20.0
+Proton Car 2005 Model 9823657076,475000.0,14.0,1500.0,1,90972.0,3.0,0,0,20.0
+2017 Model Toyota Fortuner on sale automatic,13500000.0,10.0,2700.0,2,63.0,1.0,1,1,8.0
+ISUZU S CAB DMAX 2021,3300000.0,12.0,2499.0,2,52000.0,4.0,0,0,4.0
+Kia Rio Hatchback On Sell & Exchange,800000.0,14.0,1400.0,1,81396.0,2.0,0,0,18.0
+Full fresh Gypsy 1998 modal,725555.0,15.0,1000.0,1,180000.0,1.0,1,1,27.0
+Volkswagen Tiguan for sale,3000000.0,12.0,2000.0,1,90000.0,1.0,0,1,14.0
+4 EXCHANGE ONLY CLASSIC  1981 SUZUKI JIMNY CLASSIC,2000000.0,12.0,797.0,1,110000.0,1.0,0,1,44.0
+COROLLA LX 2010,2250000.0,14.0,1597.0,1,74585.0,3.0,0,0,15.0
+Tata Nexon Xz+,2500000.0,16.0,1200.0,1,65000.0,2.0,0,0,7.0
+Datsun Go 2016 Model,1050000.0,15.0,1200.0,1,38304.0,2.0,0,0,9.0
+MAZDA CX5 AWD | PETROL | 2WD | (Mazda),7500000.0,12.0,2488.0,1,43092.0,1.0,1,0,10.0
+Tata winger cargo van 2014,550000.0,14.0,1948.0,2,70000.0,5.0,0,0,11.0
+Naza by Peugeot 2007 Model  Automatic Gear Forsale,1200000.0,14.0,1350.0,1,69000.0,2.0,1,0,18.0
+Nissan Sunny Ex Saloon Japanese AMT 2001 ,775000.0,14.0,1497.0,1,147108.0,3.0,1,0,24.0
+Car for rent,3000.0,14.0,1100.0,1,81396.0,2.0,0,0,18.0
+Nissan Sunny Ex Salon,1250000.0,10.0,1600.0,1,75000.0,3.0,0,0,15.0
+Toyota RAV 4 2018 Model,7000000.0,12.0,3000.0,1,28728.0,1.0,0,1,7.0
+TOYOTA MARK II LX90 Only 7pcs In Nepal,1750000.0,12.0,2500.0,2,100000.0,3.0,0,0,30.0
+kia Sportage petrol 2018 single hand,4200000.0,10.0,2000.0,1,28728.0,1.0,0,0,7.0
+Santro for sale 2007 900000 only,800000.0,15.0,1100.0,1,180000.0,2.0,1,0,18.0
+Toyota Land cruiser Prado TX 2014 Model,12500000.0,12.0,3000.0,2,47880.0,1.0,0,1,11.0
+Honda Wrv Disel 2018 1500cc Japanise,3300000.0,15.0,1500.0,2,43000.0,1.0,0,0,7.0
+Nissan Kicks XV 2020,3350000.0,14.0,1498.0,1,39888.0,1.0,0,0,5.0
+Sale Chevrolet Spark Car Sale,680000.0,14.0,995.0,1,85000.0,2.0,0,0,16.0
+Car For Sale Chevrolet Spark,675000.0,14.0,995.0,1,80000.0,2.0,0,0,16.0
+Tata Safari Storme VX 2016 Model,2000000.0,12.0,2200.0,2,38304.0,1.0,0,1,9.0
+SANTA FE GLS FOR SALE - IMPORTED FROM KOREA,4000000.0,14.0,2200.0,2,72000.0,1.0,0,1,13.0
+2012 Aveo Very Fresh,1000000.0,14.0,1399.0,1,58000.0,3.0,0,0,13.0
+Hyundai Grand I 10 Asta,200000.0,18.0,1197.0,1,40000.0,2.0,1,0,10.0
+✨ Nissan Terrano XL 2018 Model On Sale,2275000.0,12.0,1599.0,1,40000.0,1.0,0,0,7.0
+Scorpio Jeep For Rent,6999.0,12.0,2200.0,2,28728.0,1.0,0,1,7.0
+Chevrolet Spark 2009 Model  ,575000.0,12.0,995.0,1,72000.0,1.0,1,1,16.0
+Volkswagen tiguan ,3000000.0,10.0,2000.0,1,61000.0,1.0,0,1,14.0
+Sangyong kyron ,1600000.0,10.0,2000.0,2,60.0,1.0,0,1,17.0
+Suzuki Grand vitara for sale ,1300000.0,10.0,2000.0,1,71000.0,1.0,0,1,23.0
+Kia Seltos HTK Plus 2022 Model,5500000.0,14.0,1500.0,1,9576.0,1.0,0,0,3.0
+2013 sunny japnese doctor use sale exng50%loan. ,1550000.0,14.0,1400.0,1,43000.0,3.0,0,0,12.0
+VW Golf 1.6 German Made,2000000.0,10.0,1600.0,1,92000.0,2.0,0,0,15.0
+Chery QQ Sasto car under 5 lakhs exchange offer,525000.0,18.0,800.0,1,52.0,1.0,1,0,16.0
+Full Option Single Owner 2016 Renault Duster 4WD,2750000.0,18.0,1500.0,2,65000.0,1.0,0,1,9.0
+Toyota Land Cruiser Prado (Sale or Rent),7100000.0,10.0,3000.0,2,86000.0,1.0,0,1,18.0
+Ford Endeavour Titanium 2020 Model with Sunroof,12500000.0,12.0,2800.0,2,19152.0,1.0,1,1,5.0
+Daihatsu Sirion 2003,575000.0,16.0,989.0,1,130000.0,6.0,1,0,22.0
+maruti omni van 8 seater,530000.0,15.0,850.0,1,71820.0,5.0,0,0,16.0
+Suzuki Celerio Car for sal  Model-2018,1825000.0,16.0,998.0,1,42000.0,2.0,0,0,7.0
+Maruti Suzuki Swift 2009 Model Single hand ,1350000.0,14.0,1300.0,1,71000.0,3.0,0,0,16.0
+Toyota Land cruiser Prado TX 2017 Model,15500000.0,12.0,3000.0,2,40000.0,1.0,0,1,8.0
+Tata Ev Taxi 2023,4000000.0,14.0,5500.0,3,60000.0,3.0,1,0,2.0
+TATA ZEST XM (DIESEL),1849000.0,18.0,1248.0,2,50581.0,3.0,0,0,8.0
+Mitsubishi Pajero Sports 2021 Model Autogear,16500000.0,12.0,2500.0,2,14364.0,1.0,1,1,4.0
+DFSK glory 580 ,4500000.0,10.0,1500.0,1,13000.0,1.0,0,0,6.0
+Jeep compass Parts available.,1.0,10.0,1990.0,1,1.0,1.0,0,1,6.0
+Suzuki Swift ZXI 2014 On Sale [No Exchange],1875000.0,15.0,1197.0,1,47000.0,2.0,0,0,11.0
+ECCO van 2013 model,975000.0,18.0,1196.0,1,90000.0,5.0,0,0,12.0
+Renault Duster Rxs 2017 For Sale,2275000.0,12.0,1498.0,2,56000.0,1.0,0,0,8.0
+KIA SPORTAGE FOR SALE,2275000.0,10.0,2000.0,2,62244.0,1.0,0,1,14.0
+Toyota Rav4 2010 4/4,2500000.0,12.0,2400.0,1,92000.0,1.0,0,1,15.0
+Winger van mini bus (Full option),2700000.0,12.0,2200.0,2,17000.0,5.0,1,0,6.0
+Swift Maruti Suzuki Vxi 2016,1950000.0,15.0,1200.0,1,65000.0,2.0,1,1,9.0
+urgent sale,1250000.0,15.0,1248.0,1,53000.0,6.0,0,0,11.0
+Kia Sportage Disel 2000 Crdi,4800000.0,16.0,2000.0,2,48000.0,1.0,0,1,8.0
+2015 MODEL FRESH  DIESEL  CRETA JEEP ON SALE,2900000.0,18.0,1582.0,2,77000.0,1.0,0,0,10.0
+सुजुकी ब्रेजा जेडडीआई प्लस २०१६ मोडल,2700000.0,18.0,1248.0,2,36.0,1.0,0,0,10.0
+Hyundai tucson 4wd,30.0,13.0,2000.0,2,90000.0,1.0,0,1,14.0
+2013 Honda Amaze Manual Car On Sale,1700000.0,18.0,1198.0,1,61000.0,3.0,0,0,12.0
+Hyundai i20 Magna 2010 model for SALE!,1400000.0,10.0,1200.0,1,53000.0,2.0,0,0,15.0
+Car For Sale || Tata Indigo Tdi,525000.0,18.0,1405.0,2,129154.0,3.0,0,0,16.0
+Zotye 1.3 in superb condition for sale. Hurry up.,1000000.0,12.0,1300.0,1,123241.0,1.0,0,0,16.0
+RUSH AMT 2018,5800000.0,14.0,1496.0,1,55500.0,1.0,1,0,7.0
+Swift Desire 2010,1175000.0,18.0,1200.0,1,112000.0,2.0,1,0,15.0
+Skoda Yeti for Sale 2012 Model (4X4),2100000.0,17.7,2000.0,2,88000.0,1.0,0,1,13.0
+Suzuki Celerio,1775000.0,18.0,1000.0,1,25000.0,2.0,0,0,6.0
+Toyota Etios-14 model for Sale,1750000.0,18.0,1400.0,1,70000.0,1.0,0,1,0.0
+Kia Sportage 2019 Fresh,4950000.0,11.0,1998.0,1,53000.0,1.0,0,0,6.0
+Hyundai Santro,850000.0,15.0,1086.0,1,70000.0,2.0,0,0,21.0
+Toyota Rav4,6100000.0,12.0,2500.0,1,47000.0,1.0,0,1,9.0
+volkswagon touarage,6950000.0,12.0,3000.0,2,90000.0,1.0,1,1,14.0
+Daihatsu Terios 2005 Model 4WD,1250000.0,14.0,1300.0,1,93000.0,1.0,0,1,20.0
+Datsun Redi Go  December 2016,950000.0,15.0,800.0,1,9500.0,2.0,0,0,9.0
+NISSAN KICKS ,3599000.0,18.0,1498.0,2,23940.0,1.0,1,0,6.0
+Volkswagen polo 1.6 (2013),1600000.0,14.0,1600.0,1,60000.0,2.0,0,0,12.0
+Hyundai Elantra GLS 2014 Model,2400000.0,14.0,1500.0,1,47880.0,3.0,0,0,11.0
+Omni van on sell . smooth condition Direct call,400000.0,18.0,800.0,1,98023.0,5.0,0,0,11.0
+Electric Carriage/ Bihe Ko Baggi,60000.0,18.0,30.0,3,70.0,6.0,1,0,3.0
+FIAT Avventura 1.4 Dynamic 2015 model,1350000.0,14.0,1368.0,1,68000.0,1.0,0,0,10.0
+Toyota Land Cruiser (1Hz engine),3300000.0,12.0,4200.0,2,117000.0,1.0,0,1,29.0
+Geely mk1.5 ,650000.0,12.0,1498.0,1,40.0,3.0,0,0,15.0
+"Hyundai Accent On Sale 
+Cn 9808069712",1100000.0,15.0,1400.0,1,74000.0,3.0,0,0,16.0
+Hyundai I20 Asta 2010 Full Option On Sale,1525000.0,15.0,1200.0,1,41000.0,2.0,0,0,15.0
+Suzuki ignis alpha dual tone ,2100000.0,15.0,1200.0,1,45.0,1.0,1,0,8.0
+hyundai i 10 1.2 magna car for sale,1250000.0,13.0,1200.0,1,48000.0,6.0,0,0,15.0
+Nissan X-trail 2016 single hand auto with sunroof,5500000.0,10.0,2000.0,1,38304.0,1.0,1,1,9.0
+Hyundai Tucson 2019 November full maintain,6000000.0,12.0,2000.0,1,39000.0,1.0,0,0,6.0
+Chevrolet Car on sell ,835000.0,15.0,1200.0,1,55000.0,3.0,0,0,16.0
+Honda amaze well condition Daisai Offer,1350000.0,15.0,1200.0,1,82000.0,3.0,0,0,12.0
+FOR SALE,3500000.0,12.0,2696.0,2,61000.0,1.0,0,1,12.0
+Nissan Super Sunny -model 2008,1100000.0,14.0,1597.0,1,60275.0,3.0,0,0,17.0
+Nissan Sunny -Petrol,1100000.0,14.0,1600.0,1,60267.0,3.0,0,1,17.0
+MG petrol,3500000.0,10.0,1600.0,1,32000.0,1.0,1,0,6.0
+Suzuki Swift 2010,1350000.0,14.0,1249.0,1,62000.0,2.0,0,0,15.0
+Creta S 1497 cc,4300000.0,14.0,1497.0,1,18000.0,1.0,1,1,5.0
+Mitsubishi Pajero (2017 Model),15000000.0,12.0,3200.0,2,44000.0,1.0,1,1,8.0
+Urgent! Bolero camper pick up double cabin sale ,1599999.0,14.0,6000.0,2,38304.0,4.0,0,0,9.0
+Car,1385000.0,18.0,1197.0,1,52000.0,3.0,0,0,15.0
+MG GS for sale,3000000.0,11.0,1490.0,1,28728.0,1.0,1,0,7.0
+Honda BRV IVTEC 2017 Model (7 seater),3200000.0,14.0,1500.0,1,39000.0,1.0,0,0,8.0
+Chevrolet UVA-AVEO LT 2008 Full Option,650000.0,15.0,1200.0,1,68000.0,2.0,1,0,17.0
+Bolero camper double cabin pick up for sale,1599999.0,14.0,6000.0,2,38304.0,4.0,0,0,9.0
+Peugeot 308cc convertible,11500000.0,10.0,2000.0,1,33000.0,3.0,1,0,13.0
+hyundai i10  full option for sale 9851249975,1350000.0,15.0,1197.0,1,72000.0,6.0,0,0,15.0
+Datsun car for sale,1500000.0,14.0,800.0,1,27000.0,2.0,1,0,8.0
+2017 Ford Ranger,10000000.0,10.0,3200.0,2,40000.0,4.0,0,1,8.0
+Special custom build full 4WD Scorpio for sale ,2400000.0,12.0,2600.0,2,90000.0,1.0,0,1,18.0
+Peugeot 3008  Model - 2018,7500000.0,12.0,1598.0,1,88562.0,1.0,1,0,7.0
+Japanese Daihatsu sirion 2001,400000.0,15.0,1000.0,1,110124.0,2.0,0,0,24.0
+Scorpio Lx on sale,1500000.0,10.0,2600.0,2,105000.0,1.0,0,0,16.0
+Baleno|Delta|2018 model|4000kms|Sale,3000000.0,17.0,1.0,1,4000.0,2.0,0,0,7.0
+JEEP SINGLE OWNER,1650000.0,12.0,2200.0,2,50000.0,1.0,0,1,29.0
+TATA Zest XM  Model - 2015,1500000.0,17.0,1193.0,1,83000.0,3.0,0,0,10.0
+Hyandai Santro car for sale,975000.0,12.0,1200.0,1,100000.0,2.0,0,0,18.0
+Chevrolet Aveo 2011 Mode,1099999.0,14.0,1600.0,1,60000.0,3.0,0,0,14.0
+Hyundai Tucson 2019 Model,6500000.0,10.0,2000.0,1,23940.0,1.0,0,1,6.0
+Kia Carens 7 Seater,1050000.0,13.0,1991.0,2,92000.0,3.0,0,0,21.0
+Single Hand - Maruti Suzuki Omni Seater Van,630000.0,15.0,800.0,1,50000.0,5.0,0,0,13.0
+Car on sell,1899000.0,15.0,1200.0,1,45000.0,2.0,0,0,10.0
+Japanese Suzuki Grand Vitara 2006 Urgent Sale !!,1950000.0,10.0,2000.0,1,61000.0,1.0,0,1,19.0
+Nissan full luxury car,950000.0,14.0,6000.0,1,81396.0,3.0,0,0,18.0
+Electric Taxi Automatic For Booking Open,4600000.0,18.0,307.0,3,307.0,3.0,1,0,2.0
+ford figo titanium ,1200000.0,10.0,1196.0,1,62000.0,2.0,0,0,12.0
+2013 Model Tata Sumo Gold Cx On Sale,1100000.0,11.0,2966.0,2,180000.0,1.0,0,0,12.0
+Maruti Suzuki Ritz,1100000.0,15.0,1200.0,1,60000.0,2.0,0,0,14.0
+Renault Triber Contact 9801846266,2299999.0,14.0,1000.0,1,53500.0,2.0,0,0,4.0
+Jeep Compass Trailhawk 2020 auto 4wd sunroof,8400000.0,13.0,1956.0,2,38000.0,1.0,1,1,5.0
+कार taxi आदी सबै यक ठाउँ Pls Visit Our Location,4575000.0,15.0,800.0,1,62385.0,5.0,1,0,13.0
+S10 Picup 2021,4000000.0,12.0,2100.0,2,37000.0,4.0,1,1,4.0
+Toyota Hilxu Japanese,1825000.0,12.0,2779.0,2,117000.0,4.0,0,1,31.0
+TAXI TATA X PREST T AND ALTO HYUNDAI ETS,4555000.0,18.0,55.0,3,307.0,3.0,1,0,2.0
+Full Option 2015 Hyundai Creta Diesel SX,3350000.0,18.0,1600.0,2,71000.0,1.0,0,0,16.0
+Honda civic 2017,7000000.0,12.0,1800.0,1,30000.0,3.0,1,0,8.0
+SUZUKI OMNI VAN 2007,450000.0,16.0,800.0,1,50000.0,5.0,0,0,18.0
+Ford Classic 2011 Model On Sale,1100000.0,10.0,1600.0,1,62244.0,3.0,0,0,14.0
+Escort Road Roller,2099999.0,12.0,3000.0,2,8000.0,6.0,1,1,8.0
+Tata Tipper 6 Wheeler,1299999.0,12.0,4500.0,2,38000.0,4.0,0,0,7.0
+Chevrolet 2011,600000.0,18.0,1.2,1,62244.0,2.0,1,0,14.0
+Van Maruti,400000.0,18.0,800.0,1,80.0,5.0,1,0,13.0
+Car-Datsun Go full option,1200000.0,15.0,1200.0,1,58000.0,6.0,1,1,10.0
+Hyundai Tucson 2012 Fully Loaded Automatic,3600000.0,10.0,1999.0,2,68500.0,1.0,1,1,13.0
+Isuzu dmax,2500000.0,14.0,6000.0,1,70000.0,4.0,0,1,7.0
+Car on Sale - Home to Office n Office to Home.,1300000.0,18.0,1000.0,1,75000.0,2.0,0,0,13.0
+Toyota's Hilux revo 2016,8500000.0,12.0,2800.0,2,65000.0,4.0,0,1,9.0
+MARUTI SUZUKI DZIRE 2013,1455000.0,16.0,1100.0,1,60000.0,3.0,1,0,12.0
+Skoda Laura 2012 Diesel,1500000.0,12.0,2000.0,2,90000.0,3.0,0,0,13.0
+Volkswagen Polo 1.6 Highline 2019 1600 Cc,2500000.0,14.0,1600.0,1,30000.0,2.0,0,0,6.0
+Datsun Redigo 2021,1200000.0,15.0,1000.0,1,29000.0,2.0,1,0,4.0
+toyota sera 1991,1300000.0,14.0,1600.0,1,117000.0,3.0,0,0,34.0
+Mitsubishi Pajero DI-D 2014,8900000.0,16.0,3.2,2,80.0,1.0,1,1,11.0
+Grand Vitara 2023,6299000.0,18.0,1500.0,4,300.0,1.0,0,1,2.0
+Ford EcoSport Titanium 2015 Petrol,2200000.0,14.0,1498.0,1,35000.0,,0,0,12.0
+Skoda Yeti 4*4,3000000.0,13.0,2000.0,2,55000.0,,0,1,12.0
+Higer Bus 41 Seater  Nepal,12275000.0,14.0,6000.0,2,19152.0,,0,0,5.0
+Higer Bus 37 Seater  Nepal,12075000.0,14.0,6000.0,2,19152.0,,0,0,5.0
+Higer Bus 31 Seater  Nepal,10425000.0,14.0,5200.0,2,19152.0,,0,0,5.0
+Higer Bus 27 Seater  Nepal,8375000.0,12.0,4215.0,2,19152.0,,0,0,5.0
+Tata Super Ace On Sell,500000.0,12.0,1200.0,2,70000.0,5.0,0,0,11.0
+KIA Picanto on urgent sale. Very fresh condition.,690000.0,12.0,1100.0,1,80.0,2.0,0,0,21.0
+Bolero Pick-up Fb On a Salles.,1400000.0,12.0,2523.0,2,90000.0,4.0,1,0,8.0
+GEELY MK 1.5MT SEDAN CAR,700000.0,14.0,1498.0,1,67032.0,3.0,0,0,15.0
+Mahindra Supro cargo van,625000.0,15.0,997.0,2,85000.0,4.0,0,0,8.0
+Maruti Suzuki Dezire ZXI,1750000.0,14.0,1200.0,1,51000.0,2.0,0,0,11.0
+Pickup truck ,1350000.0,12.0,2523.0,2,38304.0,4.0,0,0,9.0
+2015 sx 1.6 disel very fresh creta,3550000.0,13.0,1600.0,2,54000.0,1.0,0,0,10.0
+Toyota corolla AE100,600000.0,14.0,1498.0,1,100000.0,3.0,1,0,33.0
+kia Sportage 2019 for sale or exchange,5500000.0,10.0,2000.0,1,13400.0,1.0,0,0,6.0
+HYUNDAI MAGNA I10 1.2 SILVER COLOUR FULL OPTIONS,1275000.0,16.0,1200.0,1,68000.0,2.0,1,1,16.0
+2021 Eeco Cargo Van,1375000.0,18.0,1200.0,1,15000.0,5.0,1,0,4.0
+Ashoka Layland 1478 cc,730000.0,18.0,1478.0,2,38304.0,4.0,0,1,9.0
+Ford EcoSport Titanium,2799999.0,14.0,1498.0,1,25000.0,1.0,0,0,10.0
+Renault kiger on sale,2400000.0,14.0,999.0,1,14500.0,1.0,0,0,4.0
+Alto Car Urgent Sell भीसा लागेको ले,520000.0,15.0,1061.0,1,151.0,6.0,1,0,23.0
