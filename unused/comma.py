@@ -25,14 +25,22 @@ HEADERS = {
     "Referer": "https://hamrobazaar.com/",
 }
 
-# Get car details
-def get_car_details(car_id: str) -> str:
+# Get car details - now returns a dictionary mapped by attribute name
+def get_car_details(car_id: str) -> dict:
     url = f"https://api.hamrobazaar.com/api/Product/{car_id}"
     response = requests.get(url, headers=HEADERS)
     response.raise_for_status()
     data = response.json()
     attributes = data.get("data", {}).get("productAttributeValues", [])
-    return ",".join(attr.get("value", "") for attr in attributes)
+    
+    # Create a dictionary mapping attribute names to values
+    details_dict = {}
+    for attr in attributes:
+        attr_name = attr.get("attributeName", "")
+        attr_value = attr.get("value", "").replace(",", " ")
+        details_dict[attr_name] = attr_value
+    
+    return details_dict
 
 # Fetch a page of cars
 def fetch_page(page_number: int) -> list:
@@ -44,15 +52,37 @@ def fetch_page(page_number: int) -> list:
     data = response.json()
     cars = data.get("data", [])
     rows = []
+    
     for car in cars:
         car_id = car.get("id", "").replace("-", "")
         details = get_car_details(car_id)
-        rows.append([car.get("name", ""), *details.split(",")])
+        car_name = car.get("name", "").replace(",", " ")
+        car_price = car.get("price", "")
+        
+        # Map each header to its corresponding value, use empty string if not found
+        row = [
+            car_name,
+            car_price,
+            details.get("Used For", ""),
+            details.get("Warranty", ""),
+            details.get("Transmission", ""),
+            details.get("Colour", ""),
+            details.get("Make Year", ""),
+            details.get("Features", ""),
+            details.get("Mileage", ""),
+            details.get("Engine (CC)", ""),
+            details.get("Fuel", ""),
+            details.get("Kilometer Run", ""),
+            details.get("Types", ""),
+        ]
+        rows.append(row)
+    
     return rows
 
 # CSV header
 header = [
     "Name",
+    "Price",
     "Used For",
     "Warranty",
     "Transmission",
@@ -67,10 +97,10 @@ header = [
 ]
 
 # Fetch pages in parallel
-page_numbers = list(range(1, 11))
+page_numbers = list(range(1, 401))
 all_rows = []
 
-print("Fetching pages 1 to 250 in parallel...")
+print("Fetching pages 1 to 10 in parallel...")
 with ThreadPoolExecutor(max_workers=10) as executor:
     futures = {executor.submit(fetch_page, page): page for page in page_numbers}
     for future in as_completed(futures):
@@ -83,7 +113,7 @@ with ThreadPoolExecutor(max_workers=10) as executor:
             print(f"Error fetching page {page}: {e}")
 
 # Write to CSV
-output_file = "test.csv"
+output_file = "current_bikes_scraped_hamrobazar.csv"
 with open(output_file, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(header)
